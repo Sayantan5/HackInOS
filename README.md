@@ -1,2 +1,2 @@
 # HackInOS
-Create custom wordlists
+Create custom wordlists used in HackInOS: 1
